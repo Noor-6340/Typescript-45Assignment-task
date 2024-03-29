@@ -1,0 +1,8 @@
+{
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.11.30",
+    "D": "^1.0.0"
+  }
+}

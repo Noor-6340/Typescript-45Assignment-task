@@ -1,0 +1,15 @@
+{
+  "name": "typescript-45-qz-assignment",
+  "version": "1.0.0",
+  "description": "TypeScript quizzes as part of the 100-day challenge on my GitHub repository! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
